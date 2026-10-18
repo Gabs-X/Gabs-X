@@ -16,4 +16,4 @@ Desenvolvedor **Full Stack**, bacharel em Sistemas de Informação, com experiê
 
 ### Contato
 
-[Portfólio](https://gabrielanthony.vercel.app) · [LinkedIn](https://www.linkedin.com/in/gabriel-anthony-7688bb224/) · ga13121110@gmail.com
+[Portfólio](https://gabrielanthony.vercel.app) · [LinkedIn](https://www.linkedin.com/in/gabriel-anthony-7688bb224/) · gabrielanthony.dev@gmail.com
